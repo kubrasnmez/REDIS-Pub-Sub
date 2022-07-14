@@ -1,0 +1,6 @@
+username: default
+password : BTTAQt1yfba5bfrgqZyZDWuDHWXCgsmJ
+
+enpoint:redis-10877.c300.eu-central-1-1.ec2.cloud.redislabs.com:10877
+
+connection_str: redis://default:BTTAQt1yfba5bfrgqZyZDWuDHWXCgsmJ@redis-10877.c300.eu-central-1-1.ec2.cloud.redislabs.com:10877

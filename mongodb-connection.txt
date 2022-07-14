@@ -1,0 +1,4 @@
+username: redis
+password : 1EeYPckGXp7FdShO
+
+mongodb+srv://redis:1EeYPckGXp7FdShO@cluster0.i5fbo.mongodb.net/?retryWrites=true&w=majority

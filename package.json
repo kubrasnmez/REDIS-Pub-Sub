@@ -1,0 +1,27 @@
+{
+  "name": "redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js",
+    "production": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.18.1",
+    "express-async-errors": "^3.1.1",
+    "helmet": "^5.1.0",
+    "mongoose": "^6.4.4",
+    "node-cron": "^3.0.1",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.19",
+    "redis": "^4.2.0",
+    "terminal-kit": "^2.4.0",
+    "uuid": "^8.3.2"
+  }
+}
